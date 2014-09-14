@@ -16,3 +16,6 @@ Visual Impairment Supporting Interactive Obstacle Navigator.
 • It also has a GSM board to send S.O.S. messages to pre-defined numbers at the press of a button.
 
 • We have used two Arduino boards as microcontrollers. The coding has been done in situ.
+
+
+Here's our finished project https://www.youtube.com/watch?v=SDUsW2SPW-Y&feature=youtu.be
